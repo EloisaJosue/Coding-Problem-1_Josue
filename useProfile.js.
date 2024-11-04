@@ -1,0 +1,9 @@
+let fullName = "Eloisa Joy V. Josue";
+let age = 19;
+let favoriteNumber = 20;
+let favoriteColor = "black";
+
+console.log(fullName);
+console.log(age);
+console.log(favoriteNumber);
+console.log(favoriteColor);
